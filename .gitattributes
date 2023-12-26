@@ -1,2 +1,2 @@
-*.ml linguist-language=OCaml
+*.ml linguist-language=OCaml8
 *.hl linguist-language=OCaml
